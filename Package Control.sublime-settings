@@ -14,9 +14,9 @@
 		"Gist",
 		"Git",
 		"Package Control",
-		"Package Syncing",
 		"PackageResourceViewer",
 		"SublimeCodeIntel",
+		"SublimePythonIDE",
 		"SublimeREPL"
 	]
 }
