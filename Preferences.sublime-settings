@@ -1,8 +1,9 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Nette.tmTheme",
+	"color_scheme": "Packages/User/Nette (SublimePythonIDE).tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"theme": "SoDaReloaded Light.sublime-theme"
 }

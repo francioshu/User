@@ -9,14 +9,15 @@
 		"ColorPicker",
 		"Colorsublime",
 		"ConvertToUTF8",
-		"E-Mail",
 		"FileBinder",
 		"Gist",
 		"Git",
 		"Package Control",
 		"PackageResourceViewer",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimePythonIDE",
-		"SublimeREPL"
+		"SublimeREPL",
+		"Theme - SoDaReloaded"
 	]
 }
