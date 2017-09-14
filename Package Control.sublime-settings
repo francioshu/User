@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Code Snippets Helper",
+		"ColorPicker",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"E-Mail",
+		"FileBinder",
+		"Gist",
+		"Git",
+		"Package Control",
+		"Package Syncing",
+		"PackageResourceViewer",
+		"SublimeCodeIntel",
+		"SublimeREPL"
+	]
+}
